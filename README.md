@@ -1,3 +1,5 @@
+Para el funcionamiento de los Webservices hay que integrar el proyecto backcrudusers que se encuentra dentro del folder Backend ahi mismo se encuentra el folder DB donde se encuentra una copia de una base de datos simple que contiene una tabla donde se almacenan los datos usando la modalidad de prueba con la base de datos, hay que tener en cuenta que la base de datos debe tener el nombre crudusers para que los webservices puedan funcionar correctamente o sino modificar los datos de conexion que se encuentra en el archivo Connection.php dentro del folder Model
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
